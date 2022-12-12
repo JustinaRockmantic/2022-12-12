@@ -1,0 +1,15 @@
+* {
+  background-color: rgb(231, 173, 231);
+}
+
+.navbar-nav > .active > a {
+  background-color: #c0c0c0;
+  color: green;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
